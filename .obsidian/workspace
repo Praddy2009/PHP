@@ -1,0 +1,102 @@
+{
+  "main": {
+    "id": "13aeddb49f6b0f97",
+    "type": "split",
+    "children": [
+      {
+        "id": "ea6e73196cedd59b",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "15 RegEx.md",
+            "mode": "preview"
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "69ddc5b748b86110",
+    "type": "split",
+    "children": [
+      {
+        "id": "9ccc4ebc064adfa2",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e94574c26e504bb2",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "9b711e05fe7ffe9c",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 151
+  },
+  "right": {
+    "id": "b360cb34933fdc67",
+    "type": "split",
+    "children": [
+      {
+        "id": "1776aa416df03379",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4a8d47bdfb508e13",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "15 RegEx.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "ea6e73196cedd59b",
+  "lastOpenFiles": [
+    "Untitled.md",
+    "12 Functions.md",
+    "11 Loops.md",
+    "1 Intro & Setup.md",
+    "2 Variables.md",
+    "3 echo Vs print.md",
+    "3 echovsprint.md",
+    "Variables.md",
+    "echovsprint.md",
+    "Intro & Setup.md"
+  ]
+}
